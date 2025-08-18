@@ -23,11 +23,13 @@ Este diretório reúne as **certificações** que conquistei na minha jornada em
 ```bash
 certificacoes/
 │
-├── README.md # Este arquivo
-├── udemy/ # Certificados da Udemy
-│ ├── cientista-dados.pdf
-│ ├── python-engenheiros.pdf
-│ └── python-basico-avancado.pdf
+├── README.md  # Este arquivo
+├── udemy/  # Certificados da Udemy
+│   ├── formacao-cientista-dados.pdf
+│   ├── python-engenheiros-cientistas-basico-avancado.pdf
+│   ├── gi_github-basico-avancado.pdf
+│   └── python-basico-avancado.pdf
+|    
 └── faculdade/ # Certificados da faculdade
   ├── README.md
   ├── programming-and-communication.pdf
