@@ -36,7 +36,7 @@ Organizar meu progresso em Ciência de Dados, servindo como:
 - [Cientista de Dados – Udemy](https://www.udemy.com/course/cientista-de-dados/?kw=for&src=sac&couponCode=KEEPLEARNINGBR)  
 - [Python para Engenheiros e Cientistas – Udemy](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/?kw=python+pa&src=sac&couponCode=KEEPLEARNINGBR)  
 - [Programação em Python: do Básico ao Avançado – Udemy](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?kw=python&src=sac&couponCode=KEEPLEARNINGBR)
-- [Git e Github do Básico ao Avançado](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/?kw=gi&src=sac&couponCode=KEEPLEARNINGBR)  
+- [Git e GitHub do Básico ao Avançado](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/?kw=gi&src=sac&couponCode=KEEPLEARNINGBR)  
 
 
 ---
