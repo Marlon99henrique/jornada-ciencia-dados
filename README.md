@@ -15,7 +15,7 @@ Organizar meu progresso em Ciência de Dados, servindo como:
 
 ## 📂 Estrutura do Repositório
 
-- **[`certificacoes/`**](https://github.com/Marlon99henrique/jornada-ciencia-dados/tree/main/01_certificacoes) → Certificações e cursos concluídos  
+- [**`certificacoes/`**](https://github.com/Marlon99henrique/jornada-ciencia-dados/tree/main/01_certificacoes) → Certificações e cursos concluídos  
 - **`fundamentos/`** → Python, SQL e Estatística básica  
 - **`machine_learning/`** → Modelos supervisionados e não supervisionados  
 - **`visualizacao_dados/`** → Experimentos com Matplotlib, Seaborn e Plotly  
