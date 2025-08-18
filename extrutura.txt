@@ -6,7 +6,7 @@ jornada-ciencia-dados/
 │   ├── linkedin-learning/     
 │   └── outros/                
 │
-02_fundamentos/
+fundamentos/
 │
 ├── python/
 │   ├── README.md
