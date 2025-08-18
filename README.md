@@ -32,11 +32,11 @@ Organizar meu progresso em Ciência de Dados, servindo como:
 ---
 
 ## ✅ Certificações
-*(aqui você lista ou adiciona badges)*  
 
-- [x] Python para Data Science – Udemy  
-- [x] Estatística aplicada – Udemy  
-- [ ] Machine Learning – Em andamento  
+- [Cientista de Dados – Udemy](https://www.udemy.com/course/cientista-de-dados/?kw=for&src=sac&couponCode=KEEPLEARNINGBR)  
+- [Python para Engenheiros e Cientistas – Udemy](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/?kw=python+pa&src=sac&couponCode=KEEPLEARNINGBR)  
+- [Programação em Python: do Básico ao Avançado – Udemy](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?kw=python&src=sac&couponCode=KEEPLEARNINGBR)  
+
 
 ---
 
