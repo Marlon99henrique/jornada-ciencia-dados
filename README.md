@@ -43,7 +43,7 @@ Organizar meu progresso em Ciência de Dados, servindo como:
 
 ## 🌐 Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
-- 📫 **Email:** marlonhenrique99@gmail.com  
+- 📫 **Email:** marlon.99henrique@gmail.com  
 
 ---
 ✨ *"Transformando dados em conhecimento, e conhecimento em oportunidades."*
