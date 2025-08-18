@@ -28,8 +28,7 @@ certificacoes/
 │   ├── formacao-cientista-dados.pdf
 │   ├── python-engenheiros-cientistas-basico-avancado.pdf
 │   ├── gi_github-basico-avancado.pdf
-│   └── python-basico-avancado.pdf
-|    
+│   └── python-basico-avancado.pdf    
 └── faculdade/ # Certificados da faculdade
   ├── README.md
   ├── programming-and-communication.pdf
