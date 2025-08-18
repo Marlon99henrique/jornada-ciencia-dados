@@ -13,9 +13,6 @@ Esta pasta reúne os principais **fundamentos da linguagem Python**, com foco em
 - [🔁 **Estruturas de Controle**](https://github.com/Marlon99henrique/python-data-science/blob/main/01_fundamentos/02_estruturas_controle.ipynb)    
   Condicionais (`if`, `elif`, `else`) e laços de repetição (`for`, `while`).
 
-- 🧮 **Operadores e Expressões**  
-  Aritméticos, relacionais, lógicos e de atribuição.
-
 - [🧰 **Funções e Módulos**](https://github.com/Marlon99henrique/python-data-science/blob/main/01_fundamentos/03_funcoes_modulos.ipynb)  
   Definição, parâmetros, retorno, escopo de variáveis e funções embutidas.
 
