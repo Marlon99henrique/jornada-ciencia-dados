@@ -7,9 +7,7 @@ Este diretório reúne as **certificações** que conquistei na minha jornada em
 ## ✅ Certificações Online
 
 ### Udemy
-- [Cientista de Dados](https://www.udemy.com/course/cientista-de-dados/?kw=for&src=sac&couponCode=KEEPLEARNINGBR)
-- [Python para Engenheiros e Cientistas](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/?kw=python+pa&src=sac&couponCode=KEEPLEARNINGBR)
-- [Programação em Python: Básico ao Avançado](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?kw=python&src=sac&couponCode=KEEPLEARNINGBR)
+- Veja os cursos e detalhes na pasta [Udemy](./udemy/README.md)
 
 ---
 
