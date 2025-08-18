@@ -26,14 +26,6 @@ Esta pasta reúne os principais **fundamentos da linguagem Python**, com foco em
 
 ---
 
-## 🧪 Exemplos Práticos
-
-- ✅ Validação de CPF com estruturas condicionais  
-- 📄 Leitura de arquivos `.csv` e extração de dados  
-- 🔄 Conversão de tipos e manipulação de listas  
-- 📦 Criação de funções reutilizáveis para tarefas comuns
-
----
 
 ## 🎯 Objetivo
 
