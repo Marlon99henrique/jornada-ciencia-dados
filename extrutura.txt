@@ -6,31 +6,46 @@ jornada-ciencia-dados/
 │   ├── linkedin-learning/     
 │   └── outros/                
 │
-fundamentos/
-│
-├── python/
-│   ├── README.md
-│   ├── 01_tipos_dados.ipynb
-│   ├── 02_estruturas_controle.ipynb
-│   ├── 03_funcoes_modulos.ipynb
-│   ├── 04_tratamento_erros.ipynb
-│   └── 05_manipulacao_arquivos.ipynb
-│   └── bibliotecas/
+├── fundamentos/
+│   ├── python/
+│   │   ├── README.md
+│   │   ├── 01_tipos_dados.ipynb
+│   │   ├── 02_estruturas_controle.ipynb
+│   │   ├── 03_funcoes_modulos.ipynb
+│   │   ├── 04_tratamento_erros.ipynb
+│   │   ├── 05_manipulacao_arquivos.ipynb
+│   │   └── bibliotecas/
+│   │       ├── README.md
+│   │       ├── pandas/
+│   │       │   ├── README.md
+│   │       │   ├── 01_introducao.ipynb
+│   │       │   ├── 02_leitura_escrita.ipynb
+│   │       │   ├── 03_limpeza_transformacao.ipynb
+│   │       │   ├── 04_analise_agregacao.ipynb
+│   │       │   ├── 05_datas_categorias.ipynb
+│   │       │   └── 06_projetos_praticos/
+│   │       ├── numpy/
+│   │       │   ├── arrays_basicos.ipynb
+│   │       │   ├── algebra_linear.ipynb
+│   │       │   └── funcoes_estatisticas.ipynb
+│   │       ├── matplotlib/
+│   │       │   ├── graficos_linha_barra.ipynb
+│   │       │   ├── personalizacao.ipynb
+│   │       │   └── subplots_eixos.ipynb
+│   │       ├── seaborn/
+│   │       │   ├── graficos_estatisticos.ipynb
+│   │       │   ├── mapas_calor.ipynb
+│   │       │   └── pairplot_corr.ipynb
+│   │       ├── scikit-learn/
+│   │       │   ├── preprocessing.ipynb
+│   │       │   ├── regressao_classificacao.ipynb
+│   │       │   └── clustering_e_pipelines.ipynb
+│   ├── sql/
+│   │   ├── README.md
+│   │   └── ...
+│   └── estatistica/
 │       ├── README.md
-│       ├── numpy/
-│       │   ├── README.md
-│       │   └── ...
-│       └── pandas/
-│           ├── README.md
-│           └── ...
-│
-├── sql/
-│   ├── README.md
-│   └── ...
-│
-└── estatistica/
-    ├── README.md
-    └── ...
+│       └── ...
 │
 ├── machine_learning/          # Algoritmos, notebooks práticos
 │   ├── regressao_linear.ipynb
