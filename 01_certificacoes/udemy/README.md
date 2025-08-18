@@ -27,14 +27,3 @@ Este diretório contém os certificados e informações sobre os cursos online q
 - 📂 [Certificado PDF](./git-github-basico-avancado.pdf)
 
 ---
-
-## 📂 Estrutura da Pasta
-
-```bash
-udemy/
-│
-├── README.md  # Este arquivo
-├── cientista-dados.pdf
-├── python-engenheiros.pdf
-├── python-basico-avancado.pdf
-└── git-e-github.pdf
