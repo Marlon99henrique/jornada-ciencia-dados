@@ -26,4 +26,3 @@ Este diretório contém os certificados e informações sobre os cursos online q
 - 🔗 [Link do Curso](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/?kw=gi&src=sac&couponCode=KEEPLEARNINGBR)
 - 📂 [Certificado PDF](./git-github-basico-avancado.pdf)
 
----
