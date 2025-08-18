@@ -15,11 +15,8 @@ Este diretório reúne as **certificações** que conquistei na minha jornada em
 
 ## 🎓 Certificações Acadêmicas
 
-- **Descomplica Faculdade Digital** - [Veja os módulos e detalhes na pasta](./faculdade/README.md)
-    - 📜 [Módulo Programming and Communication](./faculdade/programming-and-communication.pdf)
-    - 📜 [Módulo Math Computing Basics](./faculdade/math-computing-basics.pdf)
-    - 📜 [Módulo Modelling Data Developer](./faculdade/modelling-data-developer.pdf)
-    - 📜 [Módulo Developer Thinking](./faculdade/developer-thinking.pdf)
+### Descomplica Faculdade Digital
+- Veja os módulos e detalhes na pasta [Faculdade](./faculdade/README.md)
 
 ---
 
