@@ -27,7 +27,7 @@ certificacoes/
 ├── udemy/  # Certificados da Udemy
 │   ├── formacao-cientista-dados.pdf
 │   ├── python-engenheiros-cientistas-basico-avancado.pdf
-│   ├── gi_github-basico-avancado.pdf
+│   ├── git_github-basico-avancado.pdf
 │   └── python-basico-avancado.pdf    
 └── faculdade/ # Certificados da faculdade
   ├── README.md
