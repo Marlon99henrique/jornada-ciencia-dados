@@ -1,15 +1,36 @@
 jornada-ciencia-dados/
 │
 ├── README.md                  # Apresentação do repositório
-├── certificacoes/             # PDFs, prints ou links das certificações concluídas
+├── 01_certificacoes/             # PDFs, prints ou links das certificações concluídas
 │   ├── udemy/                 
 │   ├── linkedin-learning/     
 │   └── outros/                
 │
-├── fundamentos/               # Base do Python e ciência de dados
-│   ├── python/                # Sintaxe, tipos, funções, OOP
-│   ├── sql/                   # Queries, joins, agregações
-│   └── estatistica/           # Probabilidade, testes de hipótese
+02_fundamentos/
+│
+├── python/
+│   ├── README.md
+│   ├── 01_tipos_dados.ipynb
+│   ├── 02_estruturas_controle.ipynb
+│   ├── 03_funcoes_modulos.ipynb
+│   ├── 04_tratamento_erros.ipynb
+│   └── 05_manipulacao_arquivos.ipynb
+│   └── bibliotecas/
+│       ├── README.md
+│       ├── numpy/
+│       │   ├── README.md
+│       │   └── ...
+│       └── pandas/
+│           ├── README.md
+│           └── ...
+│
+├── sql/
+│   ├── README.md
+│   └── ...
+│
+└── estatistica/
+    ├── README.md
+    └── ...
 │
 ├── machine_learning/          # Algoritmos, notebooks práticos
 │   ├── regressao_linear.ipynb
