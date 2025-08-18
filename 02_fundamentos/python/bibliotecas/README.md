@@ -8,12 +8,12 @@ O objetivo é demonstrar **domínio completo** de cada ferramenta, desde conceit
 ## 💻 Conteúdo Abordado
 
 ### 🐼 Pandas
-- Manipulação e análise de dados tabulares (DataFrames e Series)
+- Manipulação e análise de dados tabulares (**DataFrames** e **Series**)
 - Limpeza, filtragem e transformação de dados
 - Operações de agregação, junções e merge
 - Trabalhando com datas, índices e dados categóricos
 - Exportação e importação de dados (CSV, Excel, SQL)
-- 📓 Notebooks: `pandas/`
+- 📂 Pasta: [`pandas/`](https://github.com/Marlon99henrique/jornada-ciencia-dados/tree/main/02_fundamentos/python/bibliotecas/pandas)
 
 ### 🔢 NumPy
 - Arrays multidimensionais e operações vetoriais
@@ -21,21 +21,21 @@ O objetivo é demonstrar **domínio completo** de cada ferramenta, desde conceit
 - Funções matemáticas e estatísticas
 - Álgebra linear e manipulação de matrizes
 - Base para bibliotecas como Pandas, Scikit-learn e Matplotlib
-- 📓 Notebooks: `numpy/`
+- 📂 Pasta: [`numpy/`](https://github.com/Marlon99henrique/jornada-ciencia-dados/tree/main/02_fundamentos/python/bibliotecas/numpy)
 
 ### 📊 Matplotlib
 - Criação de gráficos básicos (linha, barra, dispersão, pizza)
 - Personalização de cores, estilos e legendas
 - Subplots, eixos e escalas
 - Visualizações estáticas para análise exploratória
-- 📓 Notebooks: `matplotlib/`
+- 📂 Pasta: [`matplotlib/`](https://github.com/Marlon99henrique/jornada-ciencia-dados/tree/main/02_fundamentos/python/bibliotecas/matplotlib)
 
 ### 🌈 Seaborn
 - Gráficos estatísticos avançados (boxplot, violin, pairplot, heatmap)
 - Integração com Pandas para análise de datasets
 - Estética de gráficos e paletas de cores
 - Simplificação de visualizações complexas com menos código
-- 📓 Notebooks: `seaborn/`
+- 📂 Pasta: [`seaborn/`](https://github.com/Marlon99henrique/jornada-ciencia-dados/tree/main/02_fundamentos/python/bibliotecas/seaborn)
 
 ### 🤖 Scikit-learn
 - Pré-processamento de dados (normalização, encoding, feature scaling)
@@ -46,7 +46,7 @@ O objetivo é demonstrar **domínio completo** de cada ferramenta, desde conceit
   - Agrupamento: KMeans, DBSCAN
 - Avaliação de modelos (métricas, cross-validation)
 - Pipelines e integração com outras bibliotecas
-- 📓 Notebooks: `scikit-learn/`
+- 📂 Pasta: [`scikit-learn/`](https://github.com/Marlon99henrique/jornada-ciencia-dados/tree/main/02_fundamentos/python/bibliotecas/scikit-learn)
 
 ---
 
