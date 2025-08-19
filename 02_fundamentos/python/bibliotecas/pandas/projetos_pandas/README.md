@@ -6,7 +6,7 @@ Esta pasta é uma coleção de projetos de dados que demonstram o domínio de ha
 
 ## 📓 Os Notebooks
 
-### 1. **Análise Exploratória de Dados (EDA): Limpeza e Visualização**
+### [1. **Análise Exploratória de Dados (EDA): Limpeza e Visualização**](https://github.com/Marlon99henrique/jornada-ciencia-dados/blob/main/02_fundamentos/python/bibliotecas/pandas/projetos_pandas/01_eda_limpeza_visualizacao.ipynb)
 
 **Descrição:** Este projeto foca na primeira e mais importante etapa da análise de dados. Ele demonstra como inspecionar, limpar e tratar dados brutos, incluindo o manuseio de valores ausentes e a identificação de outliers, usando as ferramentas poderosas do pandas.
 
