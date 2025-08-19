@@ -27,4 +27,4 @@ pandas/
 ├── 03_limpeza_transformacao.ipynb # Tratamento e transformação de dados
 ├── 04_analise_agregacao.ipynb # Agrupamentos, merges e pivot tables
 ├── 05_datas_categorias.ipynb # Séries temporais e dados categóricos
-└── 06_projetos_praticos/ # Projetos aplicados a datasets reais
+└── projetos_pandas/ # Projetos aplicados a datasets reais
