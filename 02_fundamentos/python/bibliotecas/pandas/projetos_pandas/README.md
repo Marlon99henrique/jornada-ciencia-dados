@@ -1,53 +1,46 @@
-# 📊 Projetos Completos com Pandas
+# 📚 Projetos Práticos com Pandas
 
-Este repositório contém três projetos completos de Ciência de Dados, cada um focado em uma etapa ou habilidade crucial da análise de dados usando a biblioteca pandas. Os projetos são desenvolvidos de forma independente, cobrindo o ciclo de vida completo: da coleta de dados à geração de insights e preparação para modelagem.
-
----
-
-## 🎯 Os 3 Projetos
-
-Cada projeto será construído em um notebook Jupyter (`.ipynb`) com um `README.md` próprio para detalhar sua metodologia e conclusões.
-
-### 1. **Análise Exploratória de Dados (EDA) de Preços de Casas**
-
-**Objetivo:** Este projeto se concentra na primeira etapa da análise de dados: a Análise Exploratória de Dados. Ele cobrirá a limpeza de dados, o tratamento de valores ausentes, a identificação de outliers e a visualização das relações entre as variáveis. O objetivo é entender os fatores que influenciam o preço das casas.
-
-**Habilidades em Foco:** Limpeza de Dados, Análise Descritiva, Visualização com Matplotlib e Seaborn.
+Esta pasta é uma coleção de projetos de dados que demonstram o domínio de habilidades essenciais na biblioteca pandas. Cada notebook foi desenvolvido para abordar um aspecto fundamental da análise de dados, da limpeza inicial à preparação para a modelagem.
 
 ---
 
-### 2. **Análise de Vendas e Tendências de um E-commerce**
+## 📓 Os Notebooks
 
-**Objetivo:** Este projeto aprofundará a análise de séries temporais. Analisaremos um conjunto de dados de vendas diárias para identificar tendências, padrões sazonais e o desempenho de vendas ao longo do tempo. O foco estará em extrair e usar informações de data de forma estratégica.
+### 1. **Análise Exploratória de Dados (EDA): Limpeza e Visualização**
 
-**Habilidades em Foco:** Análise de Séries Temporais, Agregação de Dados (`groupby`), Visualização de Tendências.
+**Descrição:** Este projeto foca na primeira e mais importante etapa da análise de dados. Ele demonstra como inspecionar, limpar e tratar dados brutos, incluindo o manuseio de valores ausentes e a identificação de outliers, usando as ferramentas poderosas do pandas.
 
----
+**Habilidades:** `pd.read_csv()`, `df.info()`, `df.isnull()`, `df.dropna()`, `df.describe()`, `df.pivot_table()`.
 
-### 3. **Preparação de Dados para um Modelo de Machine Learning**
-
-**Objetivo:** O projeto final fará a ponte entre a análise de dados e a modelagem. O objetivo será pegar um conjunto de dados e prepará-lo para ser usado em um modelo de Machine Learning. As etapas incluirão a conversão de variáveis categóricas, a normalização de dados numéricos e a criação de atributos (*feature engineering*) para otimizar a performance do modelo.
-
-**Habilidades em Foco:** Pré-processamento, Engenharia de Atributos, scikit-learn, Manipulação de Tipos de Dados.
+<br>
 
 ---
 
-## 🛠️ Habilidades Comuns em Todos os Projetos
+### 2. **Análise de Séries Temporais**
 
-Cada projeto, por si só, demonstrará as seguintes competências:
+**Descrição:** Este notebook é dedicado ao trabalho com dados baseados em tempo. Ele mostra como extrair insights de colunas de data, realizar reamostragem de dados para diferentes frequências e usar médias móveis para suavizar tendências e identificar sazonalidade.
 
-- **Pandas**
-- **NumPy**
-- **Matplotlib e Seaborn**
-- Criação de código limpo e bem comentado
-- **Git e GitHub**
+**Habilidades:** `pd.to_datetime()`, `.dt` acessor, `df.resample()`, `df.rolling()`.
+
+<br>
 
 ---
 
-## 🚀 Como Executar os Notebooks
+### 3. **Engenharia de Atributos (Feature Engineering)**
 
-Para rodar os projetos localmente, basta clonar este repositório e abrir os arquivos `.ipynb` com Jupyter Notebook, JupyterLab ou Google Colab. Certifique-se de ter as bibliotecas `pandas`, `numpy` e `matplotlib`/`seaborn` instaladas.
+**Descrição:** Este projeto faz a ponte entre a análise de dados e a modelagem de Machine Learning. Ele ilustra como criar novas variáveis a partir de dados existentes (feature engineering), converter dados categóricos para um formato numérico (`get_dummies()`) e combinar múltiplos conjuntos de dados usando `merge()` e `join()`.
+
+**Habilidades:** `pd.get_dummies()`, `pd.merge()`, `df.corr()`.
+
+---
+
+## 🚀 Como Usar
+
+Para executar os notebooks, você pode:
+
+1. **Clonar o repositório**
+2. **Ter o Jupyter Notebook ou JupyterLab instalado**
+3. **Instalar as bibliotecas necessárias:**
 
 ```bash
-# Para instalar as bibliotecas necessárias
 pip install pandas numpy matplotlib seaborn
