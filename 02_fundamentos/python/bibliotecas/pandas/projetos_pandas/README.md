@@ -16,7 +16,7 @@ Esta pasta é uma coleção de projetos de dados que demonstram o domínio de ha
 
 ---
 
-### 2. **Análise de Séries Temporais**
+### [2. **Análise de Séries Temporais**](https://github.com/Marlon99henrique/jornada-ciencia-dados/blob/main/02_fundamentos/python/bibliotecas/pandas/projetos_pandas/02_analise_series_temporais.ipynb)
 
 **Descrição:** Este notebook é dedicado ao trabalho com dados baseados em tempo. Ele mostra como extrair insights de colunas de data, realizar reamostragem de dados para diferentes frequências e usar médias móveis para suavizar tendências e identificar sazonalidade.
 
