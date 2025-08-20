@@ -1,0 +1,43 @@
+1. Análise Exploratória de Dados (EDA): Limpeza e Visualização
+Nome do Repositório: pandas-eda-limpeza
+
+Descrição: Projeto focado em demonstrar o ciclo de vida da EDA com pandas, desde a inspeção de dados brutos até o tratamento de valores ausentes, remoção de outliers e visualização dos dados limpos.
+
+Estrutura do Repositório:
+
+pandas-eda-limpeza/
+├── README.md
+├── notebooks/
+│   └── eda_limpeza.ipynb
+├── data/
+│   └── dados_brutos.csv
+└── images/
+2. Análise de Séries Temporais
+Nome do Repositório: pandas-analise-temporal
+
+Descrição: Projeto dedicado a manipular e extrair insights de dados com base em tempo. O notebook demonstra o poder do pandas para reamostrar dados, calcular médias móveis e identificar tendências e sazonalidade.
+
+Estrutura do Repositório:
+
+pandas-analise-temporal/
+├── README.md
+├── notebooks/
+│   └── analise_series_temporais.ipynb
+├── data/
+│   └── dados_temporais.csv
+└── images/
+3. Engenharia de Atributos (Feature Engineering)
+Nome do Repositório: pandas-feature-engineering
+
+Descrição: Este projeto foca em transformar e combinar dados para criar novas variáveis prontas para a modelagem de Machine Learning. Ele ilustra o uso de get_dummies() e a combinação de dados de múltiplas fontes com merge() e join().
+
+Estrutura do Repositório:
+
+pandas-feature-engineering/
+├── README.md
+├── notebooks/
+│   └── feature_engineering.ipynb
+├── data/
+│   ├── dados_fonte1.csv
+│   └── dados_fonte2.csv
+└── images/
