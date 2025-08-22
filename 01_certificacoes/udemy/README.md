@@ -13,7 +13,7 @@ Este diretório contém os certificados e informações sobre os cursos online q
 
 ### 📜 Python para Engenheiros e Cientistas
 - Curso focado em aplicações práticas de Python para análise científica e engenharia.
-- 🔗 [Link do Curso](https://www.udemy.com.br/course/python-para-engenheiros-e-cientistas/?kw=python+pa&src=sac&couponCode=KEEPLEARNINGBR)
+- 🔗 [Link do Curso](https://www.udemy.com/share/103bnL3@2QZfOzHfASKzXBTKLbTIYQsr7llU1SMUve1jhESDVelkSE2uLfaWKztBU8jIVjjvYA==/)
 - 📂 [Certificado PDF](./python-engenheiros-cientista-basico-avançado.pdf)
 
 ### 📜 Programação em Python: Básico ao Avançado
