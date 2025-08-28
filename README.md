@@ -1,56 +1,57 @@
 # 🚀 Jornada de Ciência de Dados  
 
 Bem-vindo ao repositório **Jornada de Ciência de Dados**!  
-Aqui compartilho minha trajetória prática em Data Science, transformando cursos, certificados e aprendizados em **projetos aplicados**.  
+Este é o **meu repositório principal**, que reúne e documenta **todo meu aprendizado, cursos, certificados e projetos práticos em Data Science**.  
 
-A ideia é simples:  
-👉 Cada tema ou curso estudado gera **um projeto prático**, demonstrando não só que concluí o estudo, mas que **apliquei o conhecimento em problemas reais**.  
-
-Este repositório será o meu **guia de evolução** e também uma **vitrine profissional**, integrando todo meu aprendizado ao meu portfólio.  
+A ideia é clara:  
+👉 No meu [site/portfólio](https://marlon99henrique.github.io/) você encontra os **resumos e explicações**.  
+👉 Aqui você encontra a **prova prática**, com links para todos os projetos separados por tema.  
 
 ---
 
 ## 🎯 Objetivos  
 
-- Consolidar conhecimentos de **Ciência de Dados** por meio de projetos.  
-- Transformar **teoria** em **prática aplicada a problemas reais de negócio**.  
-- Reunir em um só lugar meus **projetos, estudos e certificados**.  
-- Servir como um **portfólio vivo**, em constante evolução.  
+- Demonstrar na prática os conhecimentos adquiridos em **Ciência de Dados**.  
+- Transformar **cursos e certificados** em **projetos aplicados**.  
+- Reunir em um só lugar toda a minha **jornada de aprendizado e evolução**.  
+- Servir como **hub central** para os meus projetos e portfólio.  
 
 ---
 
 ## 🛤️ Estrutura da Jornada  
 
-A jornada está organizada por **etapas fundamentais da Ciência de Dados**, cada uma acompanhada de projetos práticos:  
+A jornada está organizada em **áreas principais da Ciência de Dados**, cada uma com projetos práticos vinculados:  
 
-- **Python & Fundamentos** → Projetos básicos aplicados a dados.  
-- **Estatística & Probabilidade** → Aplicações em análises descritivas e inferências.  
-- **Análise Exploratória (EDA)** → Estudos de caso com datasets reais (ex.: Netflix, TIM, Petrobras).  
-- **Visualização de Dados** → Dashboards e storytelling orientados a negócios.  
-- **Machine Learning** → Modelos supervisionados e não supervisionados aplicados a problemas reais.  
-- **Projetos Extras & Desafios** → Kaggle, cases empresariais, competições, projetos livres.  
+- **Python & Fundamentos** → Conceitos básicos aplicados a dados.  
+- **Estatística & Probabilidade** → Aplicações em análise e inferência.  
+- **Análise Exploratória (EDA)** → Estudos de caso com datasets reais (Netflix, TIM, Petrobras etc.).  
+- **Visualização de Dados** → Dashboards e storytelling.  
+- **Machine Learning** → Modelos de classificação, regressão, clustering etc.  
+- **Projetos Extras & Desafios** → Kaggle, cases empresariais e projetos independentes.  
 
 ---
 
 ## 📂 Projetos  
+
+Cada projeto possui um repositório próprio com explicações detalhadas.  
 
 ### 🔹 Fundamentos & Python  
 - [Manipulação de Dados com Pandas](#) *(em andamento)*  
 - [Automação com Python](#) *(planejado)*  
 
 ### 🔹 EDA – Estudos de Caso  
-- **Netflix** – Análise exploratória de catálogo e comportamento de usuários *(planejado)*  
-- **TIM** – Estudo de churn e insights de clientes *(planejado)*  
-- **Petrobras** – Análise de dados públicos *(planejado)*  
+- [Netflix – Análise de Catálogo e Usuários](#) *(planejado)*  
+- [TIM – Estudo de Churn e Insights de Clientes](#) *(planejado)*  
+- [Petrobras – Análise de Dados Públicos](#) *(planejado)*  
 
 ### 🔹 Machine Learning  
-- **Churn Prediction** – Classificação para prever perda de clientes *(planejado)*  
-- **Detecção de Fraude em Cartões de Crédito** *(planejado)*  
-- **Previsão de Preços de Casas** *(planejado)*  
+- [Churn Prediction](#) – Previsão de perda de clientes *(planejado)*  
+- [Fraude em Cartões de Crédito](#) – Classificação de transações suspeitas *(planejado)*  
+- [Previsão de Preços de Casas](#) *(planejado)*  
 
 ### 🔹 Extras & Desafios  
-- Projetos Kaggle *(em breve)*  
-- Estudos de caso empresariais *(em breve)*  
+- [Projetos Kaggle](#) *(em breve)*  
+- [Estudos de Caso Empresariais](#) *(em breve)*  
 
 ---
 
@@ -65,7 +66,7 @@ A jornada está organizada por **etapas fundamentais da Ciência de Dados**, cad
 
 ## 📜 Certificados  
 
-Todos os cursos concluídos terão **um projeto correspondente** neste repositório, comprovando o aprendizado na prática.  
+Cada curso concluído terá **um projeto correspondente**, comprovando o aprendizado aplicado.  
 *(Em breve: lista com links para certificados e projetos relacionados)*  
 
 ---
@@ -78,5 +79,5 @@ Todos os cursos concluídos terão **um projeto correspondente** neste repositó
 
 ---
 
-> ✨ Meta: estudar e produzir **1 projeto por dia** até conquistar minha vaga na área de **Ciência de Dados**.  
-> Este repositório será atualizado continuamente com novos estudos e aplicações práticas.  
+> ✨ Este repositório é o **hub central** da minha trajetória em **Ciência de Dados**.  
+> Cada projeto aqui documentado comprova, na prática, os conhecimentos que apresento no meu site.  
