@@ -1,49 +1,82 @@
-# 📚 Jornada em Ciência de Dados
+# 🚀 Jornada de Ciência de Dados  
 
-Este repositório documenta minha **trajetória de aprendizado** e evolução como Cientista de Dados.  
-Aqui você encontrará desde os **fundamentos da programação** até projetos práticos em **Machine Learning**, além de **certificações** e **conhecimentos complementares**.
+Bem-vindo ao repositório **Jornada de Ciência de Dados**!  
+Aqui compartilho minha trajetória prática em Data Science, transformando cursos, certificados e aprendizados em **projetos aplicados**.  
 
----
+A ideia é simples:  
+👉 Cada tema ou curso estudado gera **um projeto prático**, demonstrando não só que concluí o estudo, mas que **apliquei o conhecimento em problemas reais**.  
 
-## 🎯 Objetivo
-Organizar meu progresso em Ciência de Dados, servindo como:
-- Registro das certificações e cursos concluídos
-- Portfólio de estudos em Python, SQL, Estatística e Machine Learning
-- Central de notebooks e projetos práticos
+Este repositório será o meu **guia de evolução** e também uma **vitrine profissional**, integrando todo meu aprendizado ao meu portfólio.  
 
 ---
 
-## 📂 Estrutura do Repositório
+## 🎯 Objetivos  
 
-- [**`certificacoes/`**](https://github.com/Marlon99henrique/jornada-ciencia-dados/tree/main/01_certificacoes) → Certificações e cursos concluídos  
-- **`fundamentos/`** → Python, SQL e Estatística básica  
-- **`machine_learning/`** → Modelos supervisionados e não supervisionados  
-- **`visualizacao_dados/`** → Experimentos com Matplotlib, Seaborn e Plotly  
-- **`extras/`** → Conhecimentos periféricos (Git, Linux, MQL5, etc.)  
-
----
-
-## 🛠️ Tecnologias utilizadas
-- Python, SQL, MQL5  
-- Pandas, NumPy, Scikit-learn  
-- Matplotlib, Seaborn, Plotly  
-- Jupyter Notebook, GitHub  
+- Consolidar conhecimentos de **Ciência de Dados** por meio de projetos.  
+- Transformar **teoria** em **prática aplicada a problemas reais de negócio**.  
+- Reunir em um só lugar meus **projetos, estudos e certificados**.  
+- Servir como um **portfólio vivo**, em constante evolução.  
 
 ---
 
-## ✅ Certificações
+## 🛤️ Estrutura da Jornada  
 
-- [Cientista de Dados – Udemy](https://www.udemy.com/course/cientista-de-dados/?kw=for&src=sac&couponCode=KEEPLEARNINGBR)  
-- [Python para Engenheiros e Cientistas – Udemy](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/?kw=python+pa&src=sac&couponCode=KEEPLEARNINGBR)  
-- [Programação em Python: do Básico ao Avançado – Udemy](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?kw=python&src=sac&couponCode=KEEPLEARNINGBR)
-- [Git e GitHub do Básico ao Avançado](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/?kw=gi&src=sac&couponCode=KEEPLEARNINGBR)  
+A jornada está organizada por **etapas fundamentais da Ciência de Dados**, cada uma acompanhada de projetos práticos:  
 
+- **Python & Fundamentos** → Projetos básicos aplicados a dados.  
+- **Estatística & Probabilidade** → Aplicações em análises descritivas e inferências.  
+- **Análise Exploratória (EDA)** → Estudos de caso com datasets reais (ex.: Netflix, TIM, Petrobras).  
+- **Visualização de Dados** → Dashboards e storytelling orientados a negócios.  
+- **Machine Learning** → Modelos supervisionados e não supervisionados aplicados a problemas reais.  
+- **Projetos Extras & Desafios** → Kaggle, cases empresariais, competições, projetos livres.  
+
+---
+
+## 📂 Projetos  
+
+### 🔹 Fundamentos & Python  
+- [Manipulação de Dados com Pandas](#) *(em andamento)*  
+- [Automação com Python](#) *(planejado)*  
+
+### 🔹 EDA – Estudos de Caso  
+- **Netflix** – Análise exploratória de catálogo e comportamento de usuários *(planejado)*  
+- **TIM** – Estudo de churn e insights de clientes *(planejado)*  
+- **Petrobras** – Análise de dados públicos *(planejado)*  
+
+### 🔹 Machine Learning  
+- **Churn Prediction** – Classificação para prever perda de clientes *(planejado)*  
+- **Detecção de Fraude em Cartões de Crédito** *(planejado)*  
+- **Previsão de Preços de Casas** *(planejado)*  
+
+### 🔹 Extras & Desafios  
+- Projetos Kaggle *(em breve)*  
+- Estudos de caso empresariais *(em breve)*  
 
 ---
 
-## 🌐 Conecte-se comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/marlon-henrique-abdon-silva-8704a8217/)  
-- 📫 **Email:** marlon.99henrique@gmail.com  
+## 🛠️ Tecnologias Utilizadas  
+
+- **Linguagem:** Python 🐍  
+- **Bibliotecas:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, entre outras  
+- **Ambientes:** Jupyter Notebook | Google Colab  
+- **Versionamento:** Git & GitHub  
 
 ---
-✨ *"Transformando dados em conhecimento, e conhecimento em oportunidades."*
+
+## 📜 Certificados  
+
+Todos os cursos concluídos terão **um projeto correspondente** neste repositório, comprovando o aprendizado na prática.  
+*(Em breve: lista com links para certificados e projetos relacionados)*  
+
+---
+
+## 🌐 Onde me encontrar  
+
+- 🔗 [Portfólio / Site Pessoal](https://marlon99henrique.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)  
+- 📧 marlon.henrique@email.com  
+
+---
+
+> ✨ Meta: estudar e produzir **1 projeto por dia** até conquistar minha vaga na área de **Ciência de Dados**.  
+> Este repositório será atualizado continuamente com novos estudos e aplicações práticas.  
